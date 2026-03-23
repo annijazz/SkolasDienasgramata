@@ -1,3 +1,0 @@
-hello   
-hello
-input() = a
